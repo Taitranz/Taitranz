@@ -14,7 +14,7 @@
 
 <h3> 👨‍🍳 Pass Projects: </h3>
 
-<h4> IAB207 @ QUT, Final Assessment</h4>
+<h4> IAB207 @ QUT, 1st Yr Final Assessment</h4>
 
 * Seek Music is a website that allows
 * Link to Website: <a href="https://seekmusic.pythonanywhere.com/">Seek Music </a>
