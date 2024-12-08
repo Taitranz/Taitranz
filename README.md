@@ -1,6 +1,5 @@
 <!-- markdownlint-disable MD033 -->
 
-# ![Local Image](./BannerPhoto.png)
 
 <h2>
     Hi 👋
