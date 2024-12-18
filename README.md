@@ -18,13 +18,9 @@
 * Seek Music is a website that allows
 * Link to Website: <a href="https://seekmusic.pythonanywhere.com/">Seek Music </a>
   
-<h3> 📖 Currently Studying: </h2>
+<h3> 📖 Current: </h2>
 
-* Basic Data structures and algorithm
-* Liner algebra
-* Python Fundamentals for Machine Learning
-* C Language for low level understanding
-* .......
+* Looking for new opportunities
 
 <!--
 **Taitranz/Taitranz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
