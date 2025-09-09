@@ -20,7 +20,7 @@
   
 <h3> 📖 Current: </h2>
 
-* Looking for new opportunities
+* Looking for new opportunities, https://taitranz.com/
 
 <!--
 **Taitranz/Taitranz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
