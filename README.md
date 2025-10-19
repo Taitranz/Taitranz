@@ -24,6 +24,7 @@
 * Link to preview: <a href="taitranz.com/">Socslingo</a>
 
 <h3> 📖 Current: </h2>
+
 * Valgo is a GPU-accelerated financial charting application built for real-time market data visualisation and automated technical analysis.
 * Preview at: <a href="taitranz.com/">Valgo</a>
 
