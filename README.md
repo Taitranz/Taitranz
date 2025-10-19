@@ -23,7 +23,7 @@
 * Socslingo, and Duolingo clone in Java and JavaFX*
 * Link to preview: <a href="taitranz.com/">Socslingo</a>
 
-<h3> 📖 Current: </h2>
+<h4> 📖 Current: </h4>
 
 * Valgo is a GPU-accelerated financial charting application built for real-time market data visualisation and automated technical analysis.
 * Link to preview: <a href="taitranz.com/">Valgo</a>
