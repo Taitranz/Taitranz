@@ -11,16 +11,23 @@
 
 ---
 
-<h3> 👨‍🍳 Pass Projects: </h3>
+<h3> 👨‍🍳 Past Projects: </h3>
 
 <h4> IAB207 @ QUT, 1st Yr Final Assessment</h4>
 
 * Seek Music is a website that allows
 * Link to Website: <a href="https://seekmusic.pythonanywhere.com/">Seek Music </a>
-  
-<h3> 📖 Current: </h2>
 
-* Looking for new opportunities, https://taitranz.com/
+<h4> CAB302 @ QUT, 2nd Yr Final Assessment</h4>
+
+* Socslingo, and Duolingo clone in Java and JavaFX*
+* Link to preview: <a href="taitranz.com/">Socslingo</a>
+
+<h3> 📖 Current: </h2>
+* Valgo is a GPU-accelerated financial charting application built for real-time market data visualisation and automated technical analysis.
+* Preview at: <a href="taitranz.com/">Valgo</a>
+
+* Open to software roles — ready to embrace new challenges and relocate for the right opportunity, https://taitranz.com/
 
 <!--
 **Taitranz/Taitranz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
