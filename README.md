@@ -22,13 +22,13 @@
 <h4> CAB302 @ QUT, 2nd Yr Final Assessment</h4>
 
 * Socslingo, and Duolingo clone in Java and JavaFX*
-* Link to preview: <a href="taitranz.com/">Socslingo</a>
+* Link to preview: <a href="www.taitranz.com/">Socslingo</a>
 * Link to reflection: <a href="https://codetai.gitbook.io/socslingo-or-project-retrospection">GITBOOK</a>
 
 <h4> 📖 Current: </h4>
 
 * Valgo is a GPU-accelerated financial charting application built for real-time market data visualisation and automated technical analysis.
-* Link to preview: <a href="taitranz.com/">Valgo</a>
+* Link to preview: <a href="www.taitranz.com/">Valgo</a>
 
 * Open to software roles — ready to embrace new challenges and relocate for the right opportunity, https://taitranz.com/
 
