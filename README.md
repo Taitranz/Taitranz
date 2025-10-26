@@ -16,12 +16,14 @@
 <h4> IAB207 @ QUT, 1st Yr Final Assessment</h4>
 
 * Seek Music is a website that allows
-* Link to Website: <a href="https://seekmusic.pythonanywhere.com/">Seek Music </a>
+* Link to website: <a href="https://seekmusic.pythonanywhere.com/">Seek Music </a>
+* Link to reflection: <a href="https://codetai.gitbook.io/seek-music-project-retrospection">GITBOOK</a>
 
 <h4> CAB302 @ QUT, 2nd Yr Final Assessment</h4>
 
 * Socslingo, and Duolingo clone in Java and JavaFX*
 * Link to preview: <a href="taitranz.com/">Socslingo</a>
+* Link to reflection: <a href="https://codetai.gitbook.io/socslingo-or-project-retrospection">GITBOOK</a>
 
 <h4> 📖 Current: </h4>
 
