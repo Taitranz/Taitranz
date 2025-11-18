@@ -40,7 +40,7 @@ The long-term goal is to move from human-in-the-loop decision support to fully a
 Recent blog update: https://blog.taitranz.com/posts/nov11-valgo-progress-update/
 
 * Link to preview: <a href="https://taitranz.com/">Valgo</a>
-* Link to blog updates relating to Valgo: <a href="https://blog.taitranz.com/posts/nov11-valgo-progress-update/">BLOG UPDATES</a>
+* Link to blog updates relating to Valgo: <a href="https://blog.taitranz.com/posts/valgo-a-frontier-agentic-trading-system-for-eurusd/">BLOG UPDATES</a>
 
 * Open to software roles — ready to embrace new challenges and relocate for the right opportunity, https://taitranz.com/
 
