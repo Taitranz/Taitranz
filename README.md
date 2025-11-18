@@ -37,7 +37,7 @@ Valgo is now being extended into an agentic trading application. The system is d
 
 The long-term goal is to move from human-in-the-loop decision support to fully agentic trading workflows, where validated models and LLM agents are promoted from research into production, with automated execution and ongoing learning from live trading results.
 
-Recent blog update: https://blog.taitranz.com/posts/nov11-valgo-progress-update/
+Recent blog update: https://blog.taitranz.com/posts/valgo-a-frontier-agentic-trading-system-for-eurusd/
 
 * Link to preview: <a href="https://taitranz.com/">Valgo</a>
 * Link to blog updates relating to Valgo: <a href="https://blog.taitranz.com/posts/valgo-a-frontier-agentic-trading-system-for-eurusd/">BLOG UPDATES</a>
