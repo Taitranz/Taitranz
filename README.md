@@ -39,7 +39,6 @@ The long-term goal is to move from human-in-the-loop decision support to fully a
 
 Recent blog update: https://blog.taitranz.com/posts/nov11-valgo-progress-update/
 
-.
 * Link to preview: <a href="https://taitranz.com/">Valgo</a>
 * Link to blog updates relating to Valgo: <a href="https://blog.taitranz.com/posts/nov11-valgo-progress-update/">BLOG UPDATES</a>
 
