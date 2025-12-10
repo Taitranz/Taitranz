@@ -7,24 +7,26 @@
 
 ---
 
-<h3> CompSci & CompSim @ QUT  </h3>
+<h3> CompSci & CompSim </h3>
 
 ---
 
 <h3> 👨‍🍳 Past Projects: </h3>
 
-<h4> IAB207 @ QUT, 1st Yr Final Assessment</h4>
+<h4> ISeek Music is a website that allows</h4>
 
-* Seek Music is a website that allows
 * Link to website: <a href="https://seekmusic.pythonanywhere.com/">Seek Music </a>
 * Link to post project analysis: <a href="https://blog.taitranz.com/posts/seek-music-post-mortem/">BLOG POST</a>
 
-<h4> CAB302 @ QUT, 2nd Yr Final Assessment</h4>
+<h4> Socslingo, and Duolingo clone in Java and JavaFX</h4>
 
-* Socslingo, and Duolingo clone in Java and JavaFX*
 * Link to preview: <a href="https://taitranz.com/">Socslingo</a>
 * Link to post project analysis: <a href="https://blog.taitranz.com/posts/socslingo-a-duolingo-inspired-java-clone/">BLOG POST</a>
 
+<h4> Hooper Music Studio Website </h4>
+
+* Link to website: <a href="https://hoopermusicstudio.com/">HMS</a>
+    
 <h4> 📖 Current: </h4>
 
 Valgo is a GPU-accelerated financial charting and trading-analysis desktop application built in Python, designed as the data and tooling layer for a multi-stage AI / algorithmic trading system focused on forex (primarily EUR/USD). It uses a modular, event-driven architecture to handle real-time market data streaming, multi-timeframe candle aggregation, technical pattern detection, and high-performance chart rendering.
