@@ -13,7 +13,7 @@
 
 <h3> 👨‍🍳 Past Projects: </h3>
 
-<h4> ISeek Music is a website that allows</h4>
+<h4> Seek Music is a website that allows</h4>
 
 * Link to website: <a href="https://seekmusic.pythonanywhere.com/">Seek Music </a>
 * Link to post project analysis: <a href="https://blog.taitranz.com/posts/seek-music-post-mortem/">BLOG POST</a>
