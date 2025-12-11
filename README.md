@@ -17,7 +17,7 @@
 
 * Link to website: <a href="https://hoopermusicstudio.com/">HMS</a>
 
-<h4> Seek Music</h4>
+<h4> Seek Music Website</h4>
 
 * Link to website: <a href="https://seekmusic.pythonanywhere.com/">Seek Music </a>
 * Link to post project analysis: <a href="https://blog.taitranz.com/posts/seek-music-post-mortem/">BLOG POST</a>
