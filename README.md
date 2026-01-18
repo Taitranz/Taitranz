@@ -38,7 +38,7 @@
 Lewy Security: Agentic security hardening
 
 
-* Open to software roles — ready to embrace new challenges and relocate for the right opportunity, https://taitranz.com/
+https://taitranz.com/
 
 <!--
 **Taitranz/Taitranz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
