@@ -13,6 +13,8 @@
 
 <h3> 👨‍🍳 Past Work: </h3>
 
+<h4> Lewy Security: Agentic security hardening </h4>
+
 <h4> Hooper Music Studio Website </h4>
 
 * Link to website: <a href="https://hoopermusicstudio.com/">HMS</a>
@@ -35,7 +37,7 @@
     
 <h4> 📖 Current: </h4>
 
-Lewy Security: Agentic security hardening
+
 
 
 https://taitranz.com/
