@@ -30,7 +30,7 @@
 * Link to website: <a href="https://seekmusic.pythonanywhere.com/">Seek Music </a>
 * Link to post project analysis: <a href="https://blog.taitranz.com/posts/seek-music-post-mortem/">BLOG POST</a>
 
-<h4> Socslingo, and Duolingo clone in Java and JavaFX</h4>
+<h4> Socslingo, a Duolingo clone in Java and JavaFX</h4>
 
 * Link to preview: <a href="https://taitranz.com/">Socslingo</a>
 * Link to post project analysis: <a href="https://blog.taitranz.com/posts/socslingo-a-duolingo-inspired-java-clone/">BLOG POST</a>
