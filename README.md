@@ -7,7 +7,7 @@
 
 ---
 
-<h3> CompSci & CompSim </h3>
+<h3> Product-Focused Software Engineer  </h3>
 
 ---
 
